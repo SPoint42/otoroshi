@@ -53,7 +53,7 @@
     "react-sparklines": "1.7.0",
     "react-table": "6.10.3",
     "recharts": "1.8.5",
-    "set-value": "3.0.1",
+    "set-value": "4.0.1",
     "showdown": "1.9.1",
     "uuid": "3.3.3",
     "webpack-bundle-analyzer": "^3.6.0",
