@@ -54,7 +54,7 @@
     "react-table": "6.10.3",
     "recharts": "1.8.5",
     "set-value": "3.0.1",
-    "showdown": "1.9.1",
+    "showdown": "2.0.0",
     "uuid": "3.3.3",
     "webpack-bundle-analyzer": "^3.6.0",
     "whatwg-fetch": "3.0.0"
