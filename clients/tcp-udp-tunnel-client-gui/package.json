@@ -13,7 +13,7 @@
     "fs-extra": "8.1.0",
     "https-proxy-agent": "3.0.1",
     "lodash": "4.17.15",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "node-fetch": "2.6.0",
     "ws": "7.2.0"
   },
