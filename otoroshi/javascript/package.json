@@ -42,7 +42,7 @@
     "jquery": "3.4.1",
     "legally": "^3.5.0",
     "lodash": "4.17.15",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "prop-types": "15.7.2",
     "query-string": "6.9.0",
     "react": "16.12.0",
