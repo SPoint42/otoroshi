@@ -6,7 +6,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "4.17.1",
+    "express": "4.21.0",
     "lodash": "4.17.15",
     "node-fetch": "2.6.0"
   }
