@@ -15,7 +15,7 @@
     "colors": "1.4.0",
     "faker": "4.1.0",
     "https-proxy-agent": "3.0.1",
-    "inquirer": "7.0.0",
+    "inquirer": "8.2.7",
     "lodash": "4.17.15",
     "minimist": "1.2.0",
     "moment": "2.24.0",
